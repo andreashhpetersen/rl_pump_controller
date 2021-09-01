@@ -1,0 +1,12 @@
+*.pyc
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.bbl
+*.run.xml
+*.toc
+*.bcf
+*.blg
